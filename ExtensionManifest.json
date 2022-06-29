@@ -1,0 +1,9 @@
+{
+  "type" : "IconPack",
+  "name": "Varelx Icon Pack",
+  "author": "Varelx",
+  "repository": "https://github.com/Varelx/varelx-icon-pack.git",
+  "packageId": "Varelx.VarelxIconPack",
+  "version": "2022",
+  "target-plugin-api-version": 33,
+}
